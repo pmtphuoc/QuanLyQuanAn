@@ -1,0 +1,188 @@
+G:\QLQA-ver 2.0\BUS\bin\Debug\BUS.dll
+G:\QLQA-ver 2.0\BUS\bin\Debug\BUS.pdb
+G:\QLQA-ver 2.0\BUS\bin\Debug\DAO.dll
+G:\QLQA-ver 2.0\BUS\bin\Debug\DTO.dll
+G:\QLQA-ver 2.0\BUS\bin\Debug\DAO.pdb
+G:\QLQA-ver 2.0\BUS\bin\Debug\DTO.pdb
+G:\QLQA-ver 2.0\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+G:\QLQA-ver 2.0\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+G:\QLQA-ver 2.0\BUS\obj\Debug\BUS.dll
+G:\QLQA-ver 2.0\BUS\obj\Debug\BUS.pdb
+G:\QLQA-ver 2.1\BUS\bin\Debug\BUS.dll
+G:\QLQA-ver 2.1\BUS\bin\Debug\BUS.pdb
+G:\QLQA-ver 2.1\BUS\bin\Debug\DAO.dll
+G:\QLQA-ver 2.1\BUS\bin\Debug\DTO.dll
+G:\QLQA-ver 2.1\BUS\bin\Debug\DAO.pdb
+G:\QLQA-ver 2.1\BUS\bin\Debug\DTO.pdb
+G:\QLQA-ver 2.1\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+G:\QLQA-ver 2.1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+G:\QLQA-ver 2.1\BUS\obj\Debug\BUS.dll
+G:\QLQA-ver 2.1\BUS\obj\Debug\BUS.pdb
+G:\QLQA-ver 2.2\BUS\bin\Debug\BUS.dll
+G:\QLQA-ver 2.2\BUS\bin\Debug\BUS.pdb
+G:\QLQA-ver 2.2\BUS\bin\Debug\DAO.dll
+G:\QLQA-ver 2.2\BUS\bin\Debug\DTO.dll
+G:\QLQA-ver 2.2\BUS\bin\Debug\DAO.pdb
+G:\QLQA-ver 2.2\BUS\bin\Debug\DTO.pdb
+G:\QLQA-ver 2.2\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+G:\QLQA-ver 2.2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+G:\QLQA-ver 2.2\BUS\obj\Debug\BUS.dll
+G:\QLQA-ver 2.2\BUS\obj\Debug\BUS.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\BUS\obj\Debug\BUS.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\BUS\obj\Debug\BUS.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\BUS\bin\Debug\BUS.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\BUS\bin\Debug\BUS.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\BUS\bin\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\BUS\bin\Debug\DTO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\BUS\bin\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\BUS\bin\Debug\DTO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\BUS\obj\Debug\BUS.csproj.CopyComplete
+G:\QLQA-ver 2.4\BUS\bin\Debug\BUS.dll
+G:\QLQA-ver 2.4\BUS\bin\Debug\BUS.pdb
+G:\QLQA-ver 2.4\BUS\bin\Debug\DAO.dll
+G:\QLQA-ver 2.4\BUS\bin\Debug\DTO.dll
+G:\QLQA-ver 2.4\BUS\bin\Debug\DAO.pdb
+G:\QLQA-ver 2.4\BUS\bin\Debug\DTO.pdb
+G:\QLQA-ver 2.4\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+G:\QLQA-ver 2.4\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+G:\QLQA-ver 2.4\BUS\obj\Debug\BUS.dll
+G:\QLQA-ver 2.4\BUS\obj\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\BUS\bin\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\BUS\bin\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\BUS\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\BUS\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\BUS\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\BUS\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\BUS\obj\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\BUS\obj\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\BUS\bin\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\BUS\bin\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\BUS\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\BUS\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\BUS\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\BUS\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\BUS\obj\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\BUS\obj\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\BUS\bin\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\BUS\bin\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\BUS\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\BUS\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\BUS\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\BUS\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\BUS\obj\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\BUS\obj\Debug\BUS.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\BUS\bin\Debug\BUS.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\BUS\bin\Debug\BUS.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\BUS\bin\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\BUS\bin\Debug\DTO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\BUS\bin\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\BUS\bin\Debug\DTO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\BUS\obj\Debug\BUS.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\BUS\obj\Debug\BUS.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\BUS\bin\Debug\BUS.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\BUS\bin\Debug\BUS.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\BUS\bin\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\BUS\bin\Debug\DTO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\BUS\bin\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\BUS\bin\Debug\DTO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\BUS\obj\Debug\BUS.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\BUS\obj\Debug\BUS.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\BUS\bin\Debug\BUS.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\BUS\bin\Debug\BUS.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\BUS\bin\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\BUS\bin\Debug\DTO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\BUS\bin\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\BUS\bin\Debug\DTO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\BUS\obj\Debug\BUS.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\BUS\obj\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\BUS\bin\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\BUS\bin\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\BUS\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\BUS\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\BUS\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\BUS\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\BUS\obj\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\BUS\obj\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\BUS\bin\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\BUS\bin\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\BUS\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\BUS\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\BUS\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\BUS\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\BUS\obj\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\BUS\obj\Debug\BUS.pdb
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\BUS\bin\Debug\BUS.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\BUS\bin\Debug\BUS.pdb
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\BUS\bin\Debug\DAO.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\BUS\bin\Debug\DTO.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\BUS\bin\Debug\DAO.pdb
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\BUS\bin\Debug\DTO.pdb
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\BUS\obj\Debug\BUS.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\BUS\obj\Debug\BUS.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\BUS\bin\Debug\BUS.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\BUS\bin\Debug\BUS.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\BUS\bin\Debug\DAO.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\BUS\bin\Debug\DTO.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\BUS\bin\Debug\DAO.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\BUS\bin\Debug\DTO.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\BUS\obj\Debug\BUS.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\BUS\obj\Debug\BUS.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\BUS.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\BUS.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\DAO.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\DTO.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\DAO.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\DTO.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\obj\Debug\BUS.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\obj\Debug\BUS.pdb
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\BUS.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\BUS.pdb
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\DAO.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\DTO.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\DAO.pdb
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\DTO.pdb
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\obj\Debug\BUS.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\obj\Debug\BUS.pdb
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\BUS.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\BUS.pdb
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\DAO.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\DTO.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\DAO.pdb
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\bin\Debug\DTO.pdb
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\obj\Debug\BUS.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\BUS\obj\Debug\BUS.pdb

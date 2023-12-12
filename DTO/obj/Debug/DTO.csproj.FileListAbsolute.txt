@@ -1,0 +1,72 @@
+G:\QLQA-ver 2.0\DTO\bin\Debug\DTO.dll
+G:\QLQA-ver 2.0\DTO\bin\Debug\DTO.pdb
+G:\QLQA-ver 2.0\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+G:\QLQA-ver 2.0\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\QLQA-ver 2.0\DTO\obj\Debug\DTO.dll
+G:\QLQA-ver 2.0\DTO\obj\Debug\DTO.pdb
+G:\QLQA-ver 2.1\DTO\bin\Debug\DTO.dll
+G:\QLQA-ver 2.1\DTO\bin\Debug\DTO.pdb
+G:\QLQA-ver 2.1\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+G:\QLQA-ver 2.1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\QLQA-ver 2.1\DTO\obj\Debug\DTO.dll
+G:\QLQA-ver 2.1\DTO\obj\Debug\DTO.pdb
+G:\QLQA-ver 2.2\DTO\bin\Debug\DTO.dll
+G:\QLQA-ver 2.2\DTO\bin\Debug\DTO.pdb
+G:\QLQA-ver 2.2\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+G:\QLQA-ver 2.2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\QLQA-ver 2.2\DTO\obj\Debug\DTO.dll
+G:\QLQA-ver 2.2\DTO\obj\Debug\DTO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\DTO\bin\Debug\DTO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\DTO\bin\Debug\DTO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\DTO\obj\Debug\DTO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\DTO\obj\Debug\DTO.pdb
+G:\QLQA-ver 2.4\DTO\bin\Debug\DTO.dll
+G:\QLQA-ver 2.4\DTO\bin\Debug\DTO.pdb
+G:\QLQA-ver 2.4\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+G:\QLQA-ver 2.4\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\QLQA-ver 2.4\DTO\obj\Debug\DTO.dll
+G:\QLQA-ver 2.4\DTO\obj\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\DTO\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\DTO\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\DTO\obj\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\DTO\obj\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\DTO\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\DTO\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\DTO\obj\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\DTO\obj\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\DTO\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\DTO\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\DTO\obj\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\DTO\obj\Debug\DTO.pdb
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\DTO\bin\Debug\DTO.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\DTO\bin\Debug\DTO.pdb
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\DTO\obj\Debug\DTO.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\DTO\obj\Debug\DTO.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\DTO\bin\Debug\DTO.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\DTO\bin\Debug\DTO.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\DTO\obj\Debug\DTO.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\DTO\obj\Debug\DTO.pdb
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\DTO\bin\Debug\DTO.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\DTO\bin\Debug\DTO.pdb
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\DTO\obj\Debug\DTO.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\DTO\obj\Debug\DTO.pdb
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\DTO\bin\Debug\DTO.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\DTO\bin\Debug\DTO.pdb
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\DTO\obj\Debug\DTO.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\DTO\obj\Debug\DTO.pdb

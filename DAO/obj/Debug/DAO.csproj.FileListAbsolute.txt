@@ -1,0 +1,143 @@
+G:\QLQA-ver 2.0\DAO\bin\Debug\DAO.dll
+G:\QLQA-ver 2.0\DAO\bin\Debug\DAO.pdb
+G:\QLQA-ver 2.0\DAO\bin\Debug\DTO.dll
+G:\QLQA-ver 2.0\DAO\bin\Debug\DTO.pdb
+G:\QLQA-ver 2.0\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+G:\QLQA-ver 2.0\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+G:\QLQA-ver 2.0\DAO\obj\Debug\DAO.dll
+G:\QLQA-ver 2.0\DAO\obj\Debug\DAO.pdb
+G:\QLQA-ver 2.1\DAO\bin\Debug\DAO.dll
+G:\QLQA-ver 2.1\DAO\bin\Debug\DAO.pdb
+G:\QLQA-ver 2.1\DAO\bin\Debug\DTO.dll
+G:\QLQA-ver 2.1\DAO\bin\Debug\DTO.pdb
+G:\QLQA-ver 2.1\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+G:\QLQA-ver 2.1\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+G:\QLQA-ver 2.1\DAO\obj\Debug\DAO.dll
+G:\QLQA-ver 2.1\DAO\obj\Debug\DAO.pdb
+G:\QLQA-ver 2.2\DAO\bin\Debug\DAO.dll
+G:\QLQA-ver 2.2\DAO\bin\Debug\DAO.pdb
+G:\QLQA-ver 2.2\DAO\bin\Debug\DTO.dll
+G:\QLQA-ver 2.2\DAO\bin\Debug\DTO.pdb
+G:\QLQA-ver 2.2\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+G:\QLQA-ver 2.2\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+G:\QLQA-ver 2.2\DAO\obj\Debug\DAO.dll
+G:\QLQA-ver 2.2\DAO\obj\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\DAO\bin\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\DAO\bin\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\DAO\bin\Debug\DTO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\DAO\bin\Debug\DTO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\DAO\obj\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\DAO\obj\Debug\DAO.pdb
+G:\QLQA-ver 2.4\DAO\bin\Debug\DAO.dll
+G:\QLQA-ver 2.4\DAO\bin\Debug\DAO.pdb
+G:\QLQA-ver 2.4\DAO\bin\Debug\DTO.dll
+G:\QLQA-ver 2.4\DAO\bin\Debug\DTO.pdb
+G:\QLQA-ver 2.4\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+G:\QLQA-ver 2.4\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+G:\QLQA-ver 2.4\DAO\obj\Debug\DAO.dll
+G:\QLQA-ver 2.4\DAO\obj\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\DAO\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\DAO\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\DAO\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\DAO\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\DAO\obj\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\DAO\obj\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\DAO\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\DAO\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\DAO\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\DAO\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\DAO\obj\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\DAO\obj\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\DAO\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\DAO\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\DAO\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\DAO\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\DAO\obj\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\DAO\obj\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\DAO\bin\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\DAO\bin\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\DAO\bin\Debug\DTO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\DAO\bin\Debug\DTO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\DAO\obj\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\DAO\obj\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\DAO\bin\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\DAO\bin\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\DAO\bin\Debug\DTO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\DAO\bin\Debug\DTO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\DAO\obj\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\DAO\obj\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\DAO\bin\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\DAO\bin\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\DAO\bin\Debug\DTO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\DAO\bin\Debug\DTO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\DAO\obj\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\DAO\obj\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\DAO\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\DAO\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\DAO\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\DAO\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\DAO\obj\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\DAO\obj\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\DAO\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\DAO\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\DAO\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\DAO\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\DAO\obj\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\DAO\obj\Debug\DAO.pdb
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\DAO\bin\Debug\DAO.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\DAO\bin\Debug\DAO.pdb
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\DAO\bin\Debug\DTO.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\DAO\bin\Debug\DTO.pdb
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\DAO\obj\Debug\DAO.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\DAO\obj\Debug\DAO.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\DAO\bin\Debug\DAO.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\DAO\bin\Debug\DAO.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\DAO\bin\Debug\DTO.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\DAO\bin\Debug\DTO.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\DAO\obj\Debug\DAO.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\DAO\obj\Debug\DAO.pdb
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\bin\Debug\DAO.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\bin\Debug\DAO.pdb
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\bin\Debug\DTO.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\bin\Debug\DTO.pdb
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\obj\Debug\DAO.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\obj\Debug\DAO.pdb
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\bin\Debug\DAO.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\bin\Debug\DAO.pdb
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\bin\Debug\DTO.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\bin\Debug\DTO.pdb
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\obj\Debug\DAO.csproj.CopyComplete
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\obj\Debug\DAO.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\DAO\obj\Debug\DAO.pdb

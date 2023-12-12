@@ -1,0 +1,1289 @@
+G:\QLQA\QLQA\bin\Debug\QLQA.exe.config
+G:\QLQA\QLQA\bin\Debug\QLQA.exe
+G:\QLQA\QLQA\bin\Debug\QLQA.pdb
+G:\QLQA\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+G:\QLQA\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+G:\QLQA\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+G:\QLQA\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+G:\QLQA\QLQA\obj\Debug\QLQA.csproj.GenerateResource.Cache
+G:\QLQA\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+G:\QLQA\QLQA\obj\Debug\QLQA.exe
+G:\QLQA\QLQA\obj\Debug\QLQA.pdb
+G:\QLQA\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\QLQA\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+G:\QLQA\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\QLQA\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+G:\QLQA\QLQA\obj\Debug\QLQA.FrmMain.resources
+G:\QLQA\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+G:\QLQA\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+G:\QLQA\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+G:\QLQA\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\QLQA\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+G:\QLQA\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+G:\QLQA\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+G:\QLQA\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+G:\QLQA\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+G:\QLQA\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+G:\QLQA-ver 2.0\QLQA\bin\Debug\QLQA.exe.config
+G:\QLQA-ver 2.0\QLQA\bin\Debug\QLQA.exe
+G:\QLQA-ver 2.0\QLQA\bin\Debug\QLQA.pdb
+G:\QLQA-ver 2.0\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+G:\QLQA-ver 2.0\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\QLQA-ver 2.0\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+G:\QLQA-ver 2.0\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+G:\QLQA-ver 2.0\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\QLQA-ver 2.0\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\QLQA-ver 2.0\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+G:\QLQA-ver 2.0\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+G:\QLQA-ver 2.0\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+G:\QLQA-ver 2.0\QLQA\obj\Debug\QLQA.FrmMain.resources
+G:\QLQA-ver 2.0\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+G:\QLQA-ver 2.0\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+G:\QLQA-ver 2.0\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+G:\QLQA-ver 2.0\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+G:\QLQA-ver 2.0\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+G:\QLQA-ver 2.0\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+G:\QLQA-ver 2.0\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+G:\QLQA-ver 2.0\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+G:\QLQA-ver 2.0\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+G:\QLQA-ver 2.0\QLQA\obj\Debug\QLQA.csproj.GenerateResource.Cache
+G:\QLQA-ver 2.0\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+G:\QLQA-ver 2.0\QLQA\obj\Debug\QLQA.exe
+G:\QLQA-ver 2.0\QLQA\obj\Debug\QLQA.pdb
+G:\QLQA-ver 2.0\QLQA\bin\Debug\BUS.dll
+G:\QLQA-ver 2.0\QLQA\bin\Debug\DAO.dll
+G:\QLQA-ver 2.0\QLQA\bin\Debug\DTO.dll
+G:\QLQA-ver 2.0\QLQA\bin\Debug\BUS.pdb
+G:\QLQA-ver 2.0\QLQA\bin\Debug\DAO.pdb
+G:\QLQA-ver 2.0\QLQA\bin\Debug\DTO.pdb
+G:\QLQA-ver 2.1\QLQA\bin\Debug\QLQA.exe.config
+G:\QLQA-ver 2.1\QLQA\bin\Debug\QLQA.exe
+G:\QLQA-ver 2.1\QLQA\bin\Debug\QLQA.pdb
+G:\QLQA-ver 2.1\QLQA\bin\Debug\BUS.dll
+G:\QLQA-ver 2.1\QLQA\bin\Debug\DAO.dll
+G:\QLQA-ver 2.1\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+G:\QLQA-ver 2.1\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\QLQA-ver 2.1\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+G:\QLQA-ver 2.1\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+G:\QLQA-ver 2.1\QLQA\bin\Debug\DTO.dll
+G:\QLQA-ver 2.1\QLQA\bin\Debug\BUS.pdb
+G:\QLQA-ver 2.1\QLQA\bin\Debug\DAO.pdb
+G:\QLQA-ver 2.1\QLQA\bin\Debug\DTO.pdb
+G:\QLQA-ver 2.1\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\QLQA-ver 2.1\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\QLQA-ver 2.1\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+G:\QLQA-ver 2.1\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+G:\QLQA-ver 2.1\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+G:\QLQA-ver 2.1\QLQA\obj\Debug\QLQA.FrmMain.resources
+G:\QLQA-ver 2.1\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+G:\QLQA-ver 2.1\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+G:\QLQA-ver 2.1\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+G:\QLQA-ver 2.1\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+G:\QLQA-ver 2.1\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+G:\QLQA-ver 2.1\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+G:\QLQA-ver 2.1\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+G:\QLQA-ver 2.1\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+G:\QLQA-ver 2.1\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+G:\QLQA-ver 2.1\QLQA\obj\Debug\QLQA.csproj.GenerateResource.Cache
+G:\QLQA-ver 2.1\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+G:\QLQA-ver 2.1\QLQA\obj\Debug\QLQA.exe
+G:\QLQA-ver 2.1\QLQA\obj\Debug\QLQA.pdb
+G:\QLQA-ver 2.2\QLQA\bin\Debug\QLQA.exe.config
+G:\QLQA-ver 2.2\QLQA\bin\Debug\QLQA.exe
+G:\QLQA-ver 2.2\QLQA\bin\Debug\QLQA.pdb
+G:\QLQA-ver 2.2\QLQA\bin\Debug\BUS.dll
+G:\QLQA-ver 2.2\QLQA\bin\Debug\DAO.dll
+G:\QLQA-ver 2.2\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+G:\QLQA-ver 2.2\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\QLQA-ver 2.2\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+G:\QLQA-ver 2.2\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+G:\QLQA-ver 2.2\QLQA\bin\Debug\DTO.dll
+G:\QLQA-ver 2.2\QLQA\bin\Debug\BUS.pdb
+G:\QLQA-ver 2.2\QLQA\bin\Debug\DAO.pdb
+G:\QLQA-ver 2.2\QLQA\bin\Debug\DTO.pdb
+G:\QLQA-ver 2.2\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\QLQA-ver 2.2\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\QLQA-ver 2.2\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+G:\QLQA-ver 2.2\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+G:\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+G:\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.FrmMain.resources
+G:\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+G:\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+G:\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+G:\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+G:\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+G:\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+G:\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+G:\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+G:\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+G:\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.csproj.GenerateResource.Cache
+G:\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+G:\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.exe
+G:\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.FrmMain.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.exe
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\bin\Debug\QLQA.exe.config
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\bin\Debug\QLQA.exe
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\bin\Debug\QLQA.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\bin\Debug\BUS.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\bin\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\bin\Debug\DTO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\bin\Debug\BUS.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\bin\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\bin\Debug\DTO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 2.2\QLQA\obj\Debug\QLQA.csproj.CopyComplete
+G:\QLQA-ver 2.4\QLQA\bin\Debug\QLQA.exe.config
+G:\QLQA-ver 2.4\QLQA\bin\Debug\QLQA.exe
+G:\QLQA-ver 2.4\QLQA\bin\Debug\QLQA.pdb
+G:\QLQA-ver 2.4\QLQA\bin\Debug\BUS.dll
+G:\QLQA-ver 2.4\QLQA\bin\Debug\DAO.dll
+G:\QLQA-ver 2.4\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+G:\QLQA-ver 2.4\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\QLQA-ver 2.4\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+G:\QLQA-ver 2.4\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+G:\QLQA-ver 2.4\QLQA\bin\Debug\DTO.dll
+G:\QLQA-ver 2.4\QLQA\bin\Debug\BUS.pdb
+G:\QLQA-ver 2.4\QLQA\bin\Debug\DAO.pdb
+G:\QLQA-ver 2.4\QLQA\bin\Debug\DTO.pdb
+G:\QLQA-ver 2.4\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\QLQA-ver 2.4\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\QLQA-ver 2.4\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+G:\QLQA-ver 2.4\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+G:\QLQA-ver 2.4\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+G:\QLQA-ver 2.4\QLQA\obj\Debug\QLQA.FrmMain.resources
+G:\QLQA-ver 2.4\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+G:\QLQA-ver 2.4\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+G:\QLQA-ver 2.4\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+G:\QLQA-ver 2.4\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+G:\QLQA-ver 2.4\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+G:\QLQA-ver 2.4\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+G:\QLQA-ver 2.4\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+G:\QLQA-ver 2.4\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+G:\QLQA-ver 2.4\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+G:\QLQA-ver 2.4\QLQA\obj\Debug\QLQA.csproj.GenerateResource.Cache
+G:\QLQA-ver 2.4\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+G:\QLQA-ver 2.4\QLQA\obj\Debug\QLQA.exe
+G:\QLQA-ver 2.4\QLQA\obj\Debug\QLQA.pdb
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\QLQA.exe.config
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\QLQA.exe
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\QLQA.pdb
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\obj\Debug\QLQA.FrmMain.resources
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\obj\Debug\QLQA.csproj.GenerateResource.Cache
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\obj\Debug\QLQA.exe
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\obj\Debug\QLQA.pdb
+G:\bài làm LTQL\QLQA-ver 2.5\QLQA-ver 2.5\QLQA\obj\Debug\QLQA.Frm_LOGIN.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\QLQA.exe.config
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\QLQA.exe
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\QLQA.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\obj\Debug\QLQA.FrmMain.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\obj\Debug\QLQA.Frm_LOGIN.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\obj\Debug\QLQA.csproj.GenerateResource.Cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\obj\Debug\QLQA.exe
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\obj\Debug\QLQA.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\ADODB.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 2.6\QLQA\bin\Debug\DevComponents.DotNetBar.Layout.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\QLQA.exe.config
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\QLQA.exe
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\QLQA.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\DevComponents.DotNetBar.Layout.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\ADODB.dll
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\obj\Debug\QLQA.FrmMain.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\obj\Debug\QLQA.Frm_LOGIN.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\obj\Debug\QLQA.csproj.GenerateResource.Cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\obj\Debug\QLQA.exe
+G:\bài làm LTQL\QLQA-ver 2.6\QLQA-ver 3.0\QLQA\obj\Debug\QLQA.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\QLQA.exe.config
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\QLQA.exe
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\QLQA.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\BUS.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\DTO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\ADODB.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\BUS.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\DTO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.FrmMain.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.Frm_LOGIN.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.csproj.CopyComplete
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.exe
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.1\QLQA\obj\Debug\QLQA.pdb
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\QLQA.exe.config
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\QLQA.exe
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\QLQA.pdb
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\DevComponents.DotNetBar.Layout.dll
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\ADODB.dll
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\obj\Debug\QLQA.FrmMain.resources
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\obj\Debug\QLQA.Frm_LOGIN.resources
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\obj\Debug\QLQA.csproj.GenerateResource.Cache
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\obj\Debug\QLQA.exe
+G:\bài làm LTQL\QLQA-ver 3.2\QLQA\obj\Debug\QLQA.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.FrmMain.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.Frm_LOGIN.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.exe
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\QLQA.exe.config
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\QLQA.exe
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\QLQA.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\BUS.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\DTO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\ADODB.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\BUS.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\DTO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.3\QLQA\obj\Debug\QLQA.csproj.CopyComplete
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.FrmMain.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.Frm_LOGIN.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.exe
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\QLQA.exe.config
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\QLQA.exe
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\QLQA.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\BUS.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\DTO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\ADODB.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\BUS.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\DTO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.4\QLQA\obj\Debug\QLQA.csproj.CopyComplete
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\QLQA.exe.config
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\QLQA.exe
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\QLQA.pdb
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\DevComponents.DotNetBar.Layout.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\EnvDTE.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\stdole.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\Microsoft.MSXML.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\obj\Debug\QLQA.FrmMain.resources
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\obj\Debug\QLQA.Frm_LOGIN.resources
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\obj\Debug\QLQA.csproj.GenerateResource.Cache
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\obj\Debug\QLQA.exe
+G:\bài làm LTQL\QLQA-ver 3.5\QLQA-ver 3.5\QLQA\obj\Debug\QLQA.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\QLQA.exe.config
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\QLQA.exe
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\QLQA.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\BUS.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\DAO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\DTO.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\EnvDTE.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\stdole.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\Microsoft.MSXML.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\BUS.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\DAO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\DTO.pdb
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.FrmMain.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.Frm_LOGIN.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.csproj.CopyComplete
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.exe
+D:\Lap trinh quan ly\bai tap\QLQA-ver 3.6\QLQA\obj\Debug\QLQA.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\QLQA.exe.config
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\QLQA.exe
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\QLQA.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.DotNetBar.Layout.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\EnvDTE.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\stdole.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.MSXML.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.FrmMain.resources
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.Frm_LOGIN.resources
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.csproj.GenerateResource.Cache
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.exe
+G:\bài làm LTQL\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\QLQA.exe.config
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\QLQA.exe
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\QLQA.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\BUS.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DAO.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.DotNetBar.Layout.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DTO.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\EnvDTE.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\stdole.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\Microsoft.MSXML.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\BUS.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DAO.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DTO.pdb
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.FrmMain.resources
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.Frm_LOGIN.resources
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.csproj.GenerateResource.Cache
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.exe
+G:\bài làm LTQL\QLQA-ver 3.7\ver3.8\QLQA-ver 3.7\QLQA-ver 3.7\QLQA\obj\Debug\QLQA.pdb
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\QLQA.exe.config
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\QLQA.exe
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\QLQA.pdb
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\BUS.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\DAO.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.Layout.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\DTO.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\EnvDTE.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\stdole.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.MSXML.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\BUS.pdb
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\DAO.pdb
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\DTO.pdb
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csprojResolveAssemblyReference.cache
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.FrmMain.resources
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Frm_LOGIN.resources
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csproj.GenerateResource.Cache
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.exe
+G:\2018-2019\QLQA_Nhom_Linh_Hiep\QLQA_Nhom_Linh_Hiep\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\QLQA.exe.config
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\QLQA.exe
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\QLQA.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\BUS.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\DAO.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\DTO.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\EnvDTE.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\stdole.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\BUS.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\DAO.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\DTO.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csprojAssemblyReference.cache
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.FrmMain.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Frm_LOGIN.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csproj.CopyComplete
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.exe
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\QLQA.exe.config
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\QLQA.exe
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\QLQA.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\BUS.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DAO.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DTO.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\EnvDTE.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\stdole.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\BUS.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DAO.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DTO.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csprojAssemblyReference.cache
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.FrmMain.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Frm_LOGIN.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csproj.CopyComplete
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.exe
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.pdb
+C:\Users\hikru\Desktop\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCLuong.resources
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\QLQA.exe.config
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\QLQA.exe
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\QLQA.pdb
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\BUS.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DAO.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.Layout.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar2.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.Instrumentation.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DTO.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\EnvDTE.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\stdole.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.MSXML.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\BUS.pdb
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DAO.pdb
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DTO.pdb
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csprojAssemblyReference.cache
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.FrmMain.resources
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Frm_LOGIN.resources
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCLuong.resources
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csproj.CopyComplete
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.exe
+E:\New\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.pdb
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\QLQA.exe.config
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\QLQA.exe
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\QLQA.pdb
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\BUS.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DAO.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DTO.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\EnvDTE.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\Microsoft.MSXML.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\BUS.pdb
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DAO.pdb
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DTO.pdb
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.DotNetBar2.xml
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\DevComponents.Instrumentation.xml
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csproj.AssemblyReference.cache
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.FrmMain.resources
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Frm_ChuyenBan.resources
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Frm_GopBan.resources
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Frm_LOGIN.resources
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCBanAn.resources
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCBanHang.resources
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCKho.resources
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCDoanhThu.resources
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCLuong.resources
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_User.resources
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.UCform.UCTaiKhoan_Admin.resources
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.csproj.CopyComplete
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.exe
+F:\New\Do An\Demo QuanLiQuanAn1\QLQA-ver 3.8\QLQA\obj\Debug\QLQA.pdb
